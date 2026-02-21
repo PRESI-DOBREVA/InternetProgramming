@@ -34,7 +34,6 @@ PresAndo Clothes Shop е уеб сайт за онлайн пазаруване 
 - C#  
 - ASP.NET Core  
 - SQL Server  
-- Bootstrap  
 
 
 ## Структура на сайта
